@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "68ca71085214b872f318bd5d_3d29b30a-9cc6-4b6d-b1be-6fb759b6c410",
+  "unpublishedPage": {
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 870,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 890,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1174,
+          "snapColumns": 64,
+          "snapRows": 125,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 94,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Gac",
+    "slug": "gac"
+  }
+}
