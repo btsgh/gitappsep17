@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "68ca71085214b872f318bd5d_67a804fd-5d43-4183-81cc-15191a1259ca",
+  "id": "Page2_UiModule11",
+  "moduleUUID": "b40422b2-a557-46bd-8d2e-a403511150cc",
+  "packageUUID": "d343378d-cad4-455b-bcf4-1e1ea6c21bb4",
+  "type": "UI_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "moduleInputs": {},
+    "name": "UiModule11",
+    "pageId": "Page2",
+    "version": "v1.0.0",
+    "widgetId": "uxz3eeacuj"
+  }
+}

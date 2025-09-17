@@ -1,5 +1,12 @@
 {
   "appIsExample": false,
+  "applicationDetail": {
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
   "color": "#F3F1C7",
@@ -16,6 +23,17 @@
     {
       "id": "Sheet1",
       "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
-  ]
+  ],
+  "unpublishedApplicationDetail": {
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
 }
